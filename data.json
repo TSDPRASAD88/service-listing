@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "title":"Web development",
+        "description":"It is a service which belongs to web"
+    },
+    {
+        "id":"2",
+        "title":"App development",
+        "description":"It is a service which belongs to Apps"
+    },
+    {
+        "id":"3",
+        "title":"Game development",
+        "description":"It is a service which belongs to Games"
+    }
+]
